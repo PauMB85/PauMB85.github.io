@@ -1,7 +1,7 @@
 title: Hello, world! I'm Pau Maravi
 description: it's fine
 permalink: ':title/'
-baseurl: "/paumb85.github.io"
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings

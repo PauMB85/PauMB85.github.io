@@ -3,7 +3,7 @@ layout: post
 title: AWS Lambda. Go to serveless
 date: 2017-12-13 23:44:00 +0200
 description: # description (optional)
-img:  # Add image post (optional)
+img: aws-lambda/lambdaAWS.jpg # Add image post (optional)
 tags: [cloud,aws lambda, serveless]
 ---
 
